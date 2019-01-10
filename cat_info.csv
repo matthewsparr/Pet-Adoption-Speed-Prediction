@@ -1,0 +1,67 @@
+BreedID,Type,BreedName,Cute,Hypo
+241,2,Abyssinian,0,0
+242,2,American Curl,1,0
+243,2,American Shorthair,1,0
+244,2,American Wirehair,0,0
+245,2,Applehead Siamese,0,0
+246,2,Balinese,1,1
+247,2,Bengal,0,1
+248,2,Birman,1,0
+249,2,Bobtail,0,0
+250,2,Bombay,0,0
+251,2,British Shorthair,1,0
+252,2,Burmese,0,1
+253,2,Burmilla,0,0
+254,2,Calico,0,0
+255,2,Canadian Hairless,0,0
+256,2,Chartreux,0,0
+257,2,Chausie,0,0
+258,2,Chinchilla,0,0
+259,2,Cornish Rex,0,1
+260,2,Cymric,1,0
+261,2,Devon Rex,0,1
+262,2,Dilute Calico,0,0
+263,2,Dilute Tortoiseshell,0,0
+264,2,Domestic Long Hair,0,0
+265,2,Domestic Medium Hair,0,0
+266,2,Domestic Short Hair,0,0
+267,2,Egyptian Mau,1,0
+268,2,Exotic Shorthair,1,0
+269,2,Extra-Toes Cat (Hemingway Polydactyl),0,0
+270,2,Havana,1,0
+271,2,Himalayan,1,0
+272,2,Japanese Bobtail,1,0
+273,2,Javanese,0,1
+274,2,Korat,0,0
+275,2,LaPerm,0,0
+276,2,Maine Coon,0,0
+277,2,Manx,0,0
+278,2,Munchkin,1,0
+279,2,Nebelung,0,0
+280,2,Norwegian Forest Cat,1,0
+281,2,Ocicat,0,1
+282,2,Oriental Long Hair,0,1
+283,2,Oriental Short Hair,0,1
+284,2,Oriental Tabby,0,1
+285,2,Persian,1,0
+286,2,Pixie-Bob,0,0
+287,2,Ragamuffin,0,0
+288,2,Ragdoll,1,0
+289,2,Russian Blue,0,1
+290,2,Scottish Fold,1,0
+291,2,Selkirk Rex,0,1
+292,2,Siamese,0,1
+293,2,Siberian,1,1
+294,2,Silver,0,0
+295,2,Singapura,0,0
+296,2,Snowshoe,1,0
+297,2,Somali,1,0
+298,2,Sphynx (hairless cat),0,1
+299,2,Tabby,0,0
+300,2,Tiger,0,0
+301,2,Tonkinese,0,0
+302,2,Torbie,0,0
+303,2,Tortoiseshell,0,0
+304,2,Turkish Angora,1,0
+305,2,Turkish Van,1,0
+306,2,Tuxedo,0,0
