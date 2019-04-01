@@ -1,12 +1,5 @@
 
-## Final Project Submission
-
-Please fill out:
-* Student name: Matthew Sparr
-* Student pace: self paced 
-* Scheduled project review date/time: 
-* Instructor name: Eli 
-* Blog post URL:
+## Pet Adoption Speed Prediction
 
 ## Introduction
 
